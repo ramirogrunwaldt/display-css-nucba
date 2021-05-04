@@ -1,0 +1,12 @@
+h1 {
+    margin-top: 150px;
+    display: inline-block;
+}
+
+p {
+    display: inline-block
+}
+input{margin-top: 150px;
+     display: block;}
+
+button{ display:block}
